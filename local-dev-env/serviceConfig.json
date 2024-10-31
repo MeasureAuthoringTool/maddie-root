@@ -36,7 +36,6 @@
     "qdmHideJson": false,
     "enableQdmRepeatTransfer": false,
     "qiCoreStu4Updates": true,
-    "associateMeasures": true,
     "CQLBuilderDefinitions": true,
     "TestCaseListSearch": true,
     "TestCaseID": false
