@@ -35,7 +35,6 @@
     "qiCoreBonnieTestCases": false,
     "qdmHideJson": false,
     "enableQdmRepeatTransfer": false,
-    "ShiftTestCasesDates": true,
     "qiCoreStu4Updates": true,
     "MeasureListCheckboxes": true,
     "associateMeasures": true,
