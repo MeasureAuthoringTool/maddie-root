@@ -35,7 +35,6 @@
     "qiCoreBonnieTestCases": false,
     "qdmHideJson": false,
     "enableQdmRepeatTransfer": false,
-    "qiCoreStu4Updates": true,
     "CQLBuilderDefinitions": true,
     "TestCaseListSearch": true,
     "TestCaseID": false
