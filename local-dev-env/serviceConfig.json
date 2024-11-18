@@ -28,6 +28,7 @@
   },
   "madieVersion": "1.0.3",
   "features": {
+    "CQLBuilderFunctions": false,
     "CQLBuilderIncludes": false,
     "CQLBuilderParameters": false,
     "qiCore6": false,
