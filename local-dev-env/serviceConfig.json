@@ -30,6 +30,7 @@
   "features": {
     "CQLBuilderIncludes": false,
     "CQLBuilderParameters": false,
+    "CQLBuilderFunctions": false,
     "qiCore6": false,
     "qiCoreElementsTab": true,
     "qiCoreBonnieTestCases": false,
