@@ -38,6 +38,7 @@
     "enableQdmRepeatTransfer": false,
     "CQLBuilderDefinitions": true,
     "TestCaseListSearch": true,
-    "TestCaseID": false
+    "TestCaseID": false,
+    "MeasureButtons": true
   }
 }
