@@ -30,6 +30,7 @@
   "features": {
     "CQLBuilderIncludes": false,
     "CQLBuilderParameters": false,
+    "CQLBuilderFunctions": false,
     "qiCore6": false,
     "qiCoreElementsTab": true,
     "qiCoreBonnieTestCases": false,
@@ -37,6 +38,7 @@
     "enableQdmRepeatTransfer": false,
     "CQLBuilderDefinitions": true,
     "TestCaseListSearch": true,
-    "TestCaseID": false
+    "TestCaseID": false,
+    "MeasureButtons": true
   }
 }

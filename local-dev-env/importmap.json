@@ -5,7 +5,6 @@
     "@madie/madie-editor": "//localhost:8501/madie-madie-editor.js",
     "@madie/madie-auth": "//localhost:8502/madie-madie-auth.js",
     "@madie/madie-measure": "//localhost:8505/madie-madie-measure.js",
-    "@madie/madie-patient": "//localhost:8506/madie-madie-patient.js",
     "@madie/madie-cql-library": "//localhost:8507/madie-madie-cql-library.js",
     "@madie/madie-util": "//localhost:8508/madie-madie-util.js",
     "rxjs": "https://unpkg.com/@esm-bundle/rxjs/system/rxjs.min.js",
