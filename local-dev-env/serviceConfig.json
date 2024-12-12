@@ -1,6 +1,6 @@
 {
   "measureService": {
-    "baseUrl": "http://localhost:8086/api"
+    "baseUrl": "http://localhost:8080/api"
   },
   "qdmElmTranslationService": {
     "baseUrl": "http://localhost:8084/api"
@@ -9,13 +9,13 @@
     "baseUrl": "http://localhost:8083/api"
   },
   "testCaseService": {
-    "baseUrl": "http://localhost:8086/api"
+    "baseUrl": "http://localhost:8080/api"
   },
   "cqlLibraryService": {
     "baseUrl": "http://localhost:8082/api"
   },
   "loggingService": {
-    "baseUrl": "http://localhost:8086/api"
+    "baseUrl": "http://localhost:8080/api"
   },
   "terminologyService": {
     "baseUrl": "http://localhost:8081/api"
@@ -28,17 +28,14 @@
   },
   "madieVersion": "1.0.3",
   "features": {
-    "MeasureButtons": true,
-    "CQLBuilderIncludes": true,
-    "CQLBuilderParameters": true,
-    "qiCore6": true,
+    "CQLBuilderParameters": false,
+    "CQLBuilderFunctions": false,
+    "qiCore6": false,
     "qiCoreElementsTab": true,
     "qiCoreBonnieTestCases": false,
     "qdmHideJson": false,
     "enableQdmRepeatTransfer": false,
-    "CQLBuilderDefinitions": true,
-    "TestCaseListSearch": true,
-    "TestCaseID": true,
+    "MeasureButtons": true,
     "stu6TestCaseValidation": false
   }
 }
