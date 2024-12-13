@@ -28,7 +28,6 @@
   },
   "madieVersion": "1.0.3",
   "features": {
-    "CQLBuilderIncludes": false,
     "CQLBuilderParameters": false,
     "CQLBuilderFunctions": false,
     "qiCore6": false,
@@ -36,9 +35,6 @@
     "qiCoreBonnieTestCases": false,
     "qdmHideJson": false,
     "enableQdmRepeatTransfer": false,
-    "CQLBuilderDefinitions": true,
-    "TestCaseListSearch": true,
-    "TestCaseID": false,
     "MeasureButtons": true
   }
 }
