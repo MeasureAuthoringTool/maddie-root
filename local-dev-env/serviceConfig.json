@@ -35,6 +35,7 @@
     "qiCoreBonnieTestCases": false,
     "qdmHideJson": false,
     "enableQdmRepeatTransfer": false,
-    "MeasureButtons": true
+    "MeasureButtons": true,
+    "stu6TestCaseValidation": false
   }
 }
