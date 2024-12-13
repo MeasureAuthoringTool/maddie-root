@@ -39,6 +39,7 @@
     "CQLBuilderDefinitions": true,
     "TestCaseListSearch": true,
     "TestCaseID": false,
-    "MeasureButtons": true
+    "MeasureButtons": true,
+    "stu6TestCaseValidation": false
   }
 }
