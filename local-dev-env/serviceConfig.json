@@ -36,6 +36,7 @@
     "qdmHideJson": false,
     "enableQdmRepeatTransfer": false,
     "MeasureButtons": true,
-    "stu6TestCaseValidation": false
+    "stu6TestCaseValidation": false,
+    "QICoreCodeSearch": false
   }
 }
