@@ -38,6 +38,6 @@
     "MeasureButtons": true,
     "stu6TestCaseValidation": false,
     "QICoreCodeSearch": false,
-    "QICoreValueSetSearch":true
+    "QICoreValueSetSearch":false
   }
 }
