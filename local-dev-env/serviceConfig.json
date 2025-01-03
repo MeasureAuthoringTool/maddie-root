@@ -37,6 +37,7 @@
     "enableQdmRepeatTransfer": false,
     "MeasureButtons": true,
     "stu6TestCaseValidation": false,
-    "QICoreCodeSearch": false
+    "QICoreCodeSearch": false,
+    "QICoreValueSetSearch":true
   }
 }
