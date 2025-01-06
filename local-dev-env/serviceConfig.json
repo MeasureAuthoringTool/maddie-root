@@ -38,6 +38,7 @@
     "MeasureButtons": true,
     "stu6TestCaseValidation": false,
     "QICoreCodeSearch": false,
-    "QICoreValueSetSearch": false
+    "QICoreValueSetSearch": false,
+    "CopyTestCases": false
   }
 }
